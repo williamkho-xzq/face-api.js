@@ -9,6 +9,8 @@ message: >-
 type: software
 authors:
   - given-names: Vincent
-    family-names: 'Mühler'
+    family-names: Mühler
 repository-code: 'https://github.com/justadudewhohacks/face-api.js'
 license: MIT
+version: 0.22.2
+date-released: '2020-03-22'
